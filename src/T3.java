@@ -10,20 +10,23 @@ import java.util.Map;
 
 public class T3 {
     public static int lengthOfLongestSubstring(String s) {
-        Map<String,Integer> map = new HashMap<>();
-        int ans = 0;
-        int len = 0;
-        for(int i = 0;i<s.length();i++){
-            if(map.containsKey(s.substring(i,i+1))){
-                len = 1;
-                map.clear();
-                map.put(s.substring(i,i+1),i);
-            }else {
-                map.put(s.substring(i,i+1),i);
-                len ++;
+        int maxLength = 0;
+        char[] chars = s.toCharArray();
+        //作为子串的起点
+        int leftIndex = 0;
+        for (int j = 0; j < chars.length; j++) {
+            /**
+             * 维护一个假子串
+             * 只记录下标
+             */
+            for (int innerIndex = leftIndex; innerIndex < j; innerIndex++) {
+                if (chars[innerIndex] == chars[j]) {
+                    maxLength = Math.max(maxLength, j - leftIndex);
+                    leftIndex = innerIndex + 1;
+                    break;
+                }
             }
-            ans = Math.max(ans,len);
         }
-        return ans;
+        return Math.max(chars.length - leftIndex, maxLength);
     }
 }
