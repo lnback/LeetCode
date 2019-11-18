@@ -1,7 +1,6 @@
 public class Main {
 
     public static void main(String[] args) {
-
-        System.out.println(T9.isPalindrome(10));
+        System.out.println(T28.strStr("aab","aab"));
     }
 }
