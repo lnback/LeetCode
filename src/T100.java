@@ -11,7 +11,8 @@ public class T100 {
      * @param p
      * @param q
      * @return
-     * 思路：前序遍历判断
+     * 递归：
+     * 1.两棵树是否为空
      */
     public static boolean isSameTree(TreeNode p, TreeNode q) {
         if(p == null && q == null){
