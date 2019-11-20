@@ -1,6 +1,8 @@
+import sun.java2d.pipe.SpanIterator;
+
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println(T28.strStr("aab","aab"));
+        System.out.println(2 ^ 3);
     }
 }
