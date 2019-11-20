@@ -16,7 +16,7 @@ public class T110 {
         }
         int leftHeight = treeHeight(root.left),rightHeight = treeHeight(root.right);
         if(leftHeight >= 0 && rightHeight >= 0 && Math.abs(leftHeight-rightHeight) <= 1){
-            return Math.max(leftHeight,rightHeight);
+            return Math.max(leftHeight,rightHeight) + 1;
         }else {
             return -1;
         }
