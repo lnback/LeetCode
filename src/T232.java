@@ -8,6 +8,12 @@ import java.util.Stack;
  **/
 
 public class T232 {
+    /**
+     * 栈模拟队列：
+     * 双栈：s1作为输入栈，s2作为输出栈
+     * pop时先判断s2是否为空，为空则将s1全部导入
+     * peek相同操作
+     */
     class MyQueue {
         private Stack<Integer> s1;
         private Stack<Integer> s2;
