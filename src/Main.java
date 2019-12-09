@@ -1,8 +1,13 @@
-import sun.java2d.pipe.SpanIterator;
+import java.math.BigInteger;
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
 
 public class Main {
 
+
     public static void main(String[] args) {
-        System.out.println(('Y'-65 + 1) * 1 + ('Z'-65 + 1) * 26);
+        System.out.println(T383.canConstruct("aa","aab"));
+
     }
 }
