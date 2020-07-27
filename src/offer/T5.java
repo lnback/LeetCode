@@ -8,9 +8,9 @@ package offer;
  **/
 
 public class T5 {
-    public String replaceSpace(String s) {
+    public String replaceSpace(StringBuffer s) {
         StringBuilder sb = new StringBuilder();
-        for (char c : s.toCharArray()){
+        for (char c : s.toString().toCharArray()){
             if(c == ' '){
                 sb.append("%20");
             }else {
