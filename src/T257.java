@@ -11,25 +11,26 @@ import java.util.List;
 public class T257 {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> ans = new ArrayList<>();
-        if(root == null){
+        if (root == null) {
             return ans;
         }
-        solve(root,"",ans);
+        solve(root, "", ans);
         return ans;
     }
-    private static void solve(TreeNode root,String cur,List<String> ans){
-        if(root == null){
+
+    private static void solve(TreeNode root, String cur, List<String> ans) {
+        if (root == null) {
             return;
         }
         cur += root.val;
         /**
          * 判断是否为叶子结点
          */
-        if(root.left == null && root.right == null){
+        if (root.left == null && root.right == null) {
             ans.add(cur);
-        }else {
-            solve(root.left,cur+"->",ans);
-            solve(root.right,cur+"->",ans);
+        } else {
+            solve(root.left, cur + "->", ans);
+            solve(root.right, cur + "->", ans);
         }
     }
 }

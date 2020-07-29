@@ -11,13 +11,13 @@ public class T6 {
     public int[] reversePrint(ListNode head) {
         int cnt = 0;
         ListNode node = head;
-        while (node != null){
+        while (node != null) {
             cnt++;
             node = node.next;
         }
         int[] nums = new int[cnt];
         node = head;
-        for(int i = cnt - 1;i >=0 ;i--){
+        for (int i = cnt - 1; i >= 0; i--) {
             nums[i] = node.val;
             node = node.next;
         }

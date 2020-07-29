@@ -8,7 +8,9 @@
 public class T155 {
     class MinStack {
 
-        /** initialize your data structure here. */
+        /**
+         * initialize your data structure here.
+         */
         public MinStack() {
         }
 

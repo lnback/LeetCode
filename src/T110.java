@@ -10,14 +10,14 @@ public class T110 {
         return treeHeight(root) >= 0;
     }
 
-    private int treeHeight(TreeNode root){
-        if(root == null) {
+    private int treeHeight(TreeNode root) {
+        if (root == null) {
             return 0;
         }
-        int leftHeight = treeHeight(root.left),rightHeight = treeHeight(root.right);
-        if(leftHeight >= 0 && rightHeight >= 0 && Math.abs(leftHeight-rightHeight) <= 1){
-            return Math.max(leftHeight,rightHeight) + 1;
-        }else {
+        int leftHeight = treeHeight(root.left), rightHeight = treeHeight(root.right);
+        if (leftHeight >= 0 && rightHeight >= 0 && Math.abs(leftHeight - rightHeight) <= 1) {
+            return Math.max(leftHeight, rightHeight) + 1;
+        } else {
             return -1;
         }
     }

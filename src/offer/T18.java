@@ -9,7 +9,7 @@ package offer;
 
 public class T18 {
     public ListNode deleteNode(ListNode head, int val) {
-        if(head == null){
+        if (head == null) {
             return null;
         }
         ListNode h = new ListNode(0);
@@ -17,11 +17,11 @@ public class T18 {
         ListNode pre = h;
         ListNode cur = head;
 
-        while (cur != null){
-            if(cur.val == val){
+        while (cur != null) {
+            if (cur.val == val) {
                 pre.next = cur.next;
                 break;
-            }else {
+            } else {
                 pre = cur;
                 cur = cur.next;
             }

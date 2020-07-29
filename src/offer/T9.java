@@ -12,7 +12,8 @@ import java.util.LinkedList;
 public class T9 {
     LinkedList<Integer> stack1;
     LinkedList<Integer> stack2;
-    public T9(){
+
+    public T9() {
         stack1 = new LinkedList<>();
         stack2 = new LinkedList<>();
     }
@@ -22,16 +23,16 @@ public class T9 {
     }
 
     public int deleteHead() {
-        if(stack2.isEmpty()){
-            if(stack1.isEmpty()){
+        if (stack2.isEmpty()) {
+            if (stack1.isEmpty()) {
                 return -1;
-            }else {
-                while (!stack1.isEmpty()){
+            } else {
+                while (!stack1.isEmpty()) {
                     stack2.add(stack1.pop());
                 }
                 return stack2.pop();
             }
-        }else {
+        } else {
             return stack2.pop();
         }
     }

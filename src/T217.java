@@ -11,8 +11,8 @@ import java.util.Set;
 public class T217 {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
-        for(int num : nums){
-            if(!set.add(num)){
+        for (int num : nums) {
+            if (!set.add(num)) {
                 return true;
             }
         }

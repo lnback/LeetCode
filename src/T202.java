@@ -11,11 +11,11 @@ import java.util.Set;
 public class T202 {
     public boolean isHappy(int n) {
         Set<Integer> set = new HashSet<>();
-        while(n != 1 && !set.contains(n)){
+        while (n != 1 && !set.contains(n)) {
             set.add(n);
             int sum = 0;
-            while(n != 0){
-                sum += Math.pow(n % 10,2);
+            while (n != 0) {
+                sum += Math.pow(n % 10, 2);
                 n /= 10;
             }
             n = sum;

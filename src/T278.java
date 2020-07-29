@@ -12,17 +12,18 @@ public class T278 {
      * 需注意一个地方：
      * mid = (low + high)/2 会溢出 (low + high)/2 = low + (high - low)/2
      * mid = low + (high - low) / 2;
+     *
      * @param n
      * @return
      */
     public int firstBadVersion(int n) {
         int low = 1;
         int high = n;
-        while (low < high){
-            int mid = low + ( high - low ) / 2;
-            if(isBadVersion(mid)){
+        while (low < high) {
+            int mid = low + (high - low) / 2;
+            if (isBadVersion(mid)) {
                 high = mid;
-            }else {
+            } else {
                 low = mid + 1;
             }
         }

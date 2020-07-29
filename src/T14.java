@@ -10,14 +10,14 @@ import javax.xml.transform.Source;
 public class T14 {
     public String longestCommonPrefix(String[] strs) {
         long startTime = System.currentTimeMillis();
-        if(strs.length == 0){
+        if (strs.length == 0) {
             return "";
         }
         String str = strs[0];
-        for(int i = 1;i < strs.length;i++){
+        for (int i = 1; i < strs.length; i++) {
             //当字符串中不包含该前缀时，不断缩减str
-            while(strs[i].indexOf(str) != 0){
-                str = str.substring(0,str.length()-1);
+            while (strs[i].indexOf(str) != 0) {
+                str = str.substring(0, str.length() - 1);
             }
         }
         long endTime = System.currentTimeMillis();

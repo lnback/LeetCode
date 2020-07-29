@@ -7,7 +7,7 @@
 
 public class T234 {
     public boolean isPalindrome(ListNode head) {
-        if(head == null || head.next == null){
+        if (head == null || head.next == null) {
             return true;
         }
         /**
@@ -15,7 +15,7 @@ public class T234 {
          */
         ListNode fast = head;
         ListNode slow = head;
-        while (fast != null){
+        while (fast != null) {
             slow = slow.next;
             fast = fast.next != null ? fast.next.next : fast.next;
         }
@@ -25,7 +25,7 @@ public class T234 {
         ListNode pre = null;
         ListNode cur = slow;
 
-        while (cur != null){
+        while (cur != null) {
             ListNode next = cur.next;
             cur.next = pre;
             pre = cur;
@@ -34,8 +34,8 @@ public class T234 {
         /**
          * 比较
          */
-        while(pre != null && head != null){
-            if(pre.val != head.val){
+        while (pre != null && head != null) {
+            if (pre.val != head.val) {
                 return false;
             }
             pre = pre.next;

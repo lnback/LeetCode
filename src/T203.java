@@ -9,6 +9,7 @@ public class T203 {
     /**
      * 因为第一个结点的值也可能为val,要把head作为第二个结点
      * 最后返回header.next即可
+     *
      * @param head
      * @param val
      * @return
@@ -17,10 +18,10 @@ public class T203 {
         ListNode header = new ListNode(-1);
         header.next = head;
         ListNode node = header;
-        while (node.next != null){
-            if(node.next.val == val){
+        while (node.next != null) {
+            if (node.next.val == val) {
                 node.next = node.next.next;
-            }else {
+            } else {
                 node = node.next;
             }
         }

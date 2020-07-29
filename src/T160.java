@@ -7,11 +7,11 @@
 
 public class T160 {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        if(headA == null || headB == null) {
+        if (headA == null || headB == null) {
             return null;
         }
-        ListNode a = headA,b = headB;
-        while(a != b){
+        ListNode a = headA, b = headB;
+        while (a != b) {
             a = a == null ? headB : a.next;
             b = b == null ? headB : b.next;
         }

@@ -9,9 +9,9 @@ public class T434 {
     public int countSegments(String s) {
         String[] ans = s.split(" ");
         int cnt = 0;
-        for(String str : ans){
-            if(!"".equals(str)){
-                cnt ++;
+        for (String str : ans) {
+            if (!"".equals(str)) {
+                cnt++;
             }
         }
         return cnt;

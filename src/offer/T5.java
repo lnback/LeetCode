@@ -10,10 +10,10 @@ package offer;
 public class T5 {
     public String replaceSpace(StringBuffer s) {
         StringBuilder sb = new StringBuilder();
-        for (char c : s.toString().toCharArray()){
-            if(c == ' '){
+        for (char c : s.toString().toCharArray()) {
+            if (c == ' ') {
                 sb.append("%20");
-            }else {
+            } else {
                 sb.append(c);
             }
         }

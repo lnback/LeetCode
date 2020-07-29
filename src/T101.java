@@ -14,22 +14,23 @@
  */
 public class T101 {
     public static boolean isSymmetric(TreeNode root) {
-        if(root == null){
+        if (root == null) {
             return true;
         }
-        return isTrue(root.left,root.right);
+        return isTrue(root.left, root.right);
     }
-    public static boolean isTrue(TreeNode left,TreeNode right){
-        if(left == null && right == null) {
+
+    public static boolean isTrue(TreeNode left, TreeNode right) {
+        if (left == null && right == null) {
             return true;
         }
-        if(left == null || right == null) {
+        if (left == null || right == null) {
             return false;
         }
-        if(left.val != right.val) {
+        if (left.val != right.val) {
             return false;
         } else {
-            return isTrue(left.left,right.right)&&isTrue(left.right,right.left);
+            return isTrue(left.left, right.right) && isTrue(left.right, right.left);
         }
     }
 }

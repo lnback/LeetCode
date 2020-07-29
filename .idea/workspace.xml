@@ -6,8 +6,107 @@
   <component name="ChangeListManager">
     <list default="true" id="dd12455b-b3a7-471a-bce8-ddff5ff23c9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOT100/T3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOT100/T3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HOT100/T4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HOT100/T4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T107.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T111.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T112.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T118.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T121.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T122.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T125.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T136.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T141.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T155.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T155.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T160.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T160.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T168.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T171.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T172.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T189.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T189.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T191.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T191.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T198.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T198.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T202.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T202.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T203.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T204.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T204.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T205.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T206.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T217.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T219.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T219.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T225.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T225.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T226.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T231.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T231.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T232.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T232.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T234.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T234.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T237.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T237.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T242.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T242.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T257.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T257.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T258.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T258.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T263.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T263.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T268.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T268.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T278.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T283.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T283.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T290.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T290.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T292.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T292.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T299.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T299.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T303.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T303.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T326.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T326.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T342.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T342.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T344.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T344.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T345.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T349.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T349.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T350.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T350.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T367.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T367.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T371.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T371.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T374.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T374.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T383.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T383.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T387.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T387.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T389.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T389.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T392.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T392.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T404.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T404.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T405.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T405.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T409.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T409.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T412.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T412.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T415.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T415.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T434.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T434.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T67.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T70.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T88.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/T9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/T9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T102.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/offer/T5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/offer/T9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/review/ClassSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review/ClassSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/review/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/review/Sort.java" afterDir="false" />
     </list>
     <list id="18cd3ff7-ba9e-4927-bdd6-9cddb08a0fdd" name="2020.7.15 秋招冲冲冲~ 刷完剑指offer" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,30 +131,65 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/T19.java">
+        <entry file="file://$PROJECT_DIR$/src/offer/T30.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+            <state relative-caret-position="429">
+              <caret line="48" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+              <folding>
+                <element signature="e#448#449#0" expanded="true" />
+                <element signature="e#475#476#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#535#536#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/offer/T21.java">
+        <entry file="file://$PROJECT_DIR$/src/offer/T31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="206">
-              <caret line="25" column="20" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
+            <state relative-caret-position="93">
+              <caret line="23" column="34" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer/T32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="43" column="20" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/offer/T322.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="39" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/offer/T22.java">
+        <entry file="file://$PROJECT_DIR$/src/offer/T29.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="205">
+              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -86,16 +220,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/T3421.java" />
-        <option value="$PROJECT_DIR$/src/T342.java" />
-        <option value="$PROJECT_DIR$/src/T344.java" />
-        <option value="$PROJECT_DIR$/src/T345.java" />
-        <option value="$PROJECT_DIR$/src/T349.java" />
-        <option value="$PROJECT_DIR$/src/T350.java" />
-        <option value="$PROJECT_DIR$/src/T367.java" />
-        <option value="$PROJECT_DIR$/src/T374.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/T383.java" />
         <option value="$PROJECT_DIR$/src/T387.java" />
         <option value="$PROJECT_DIR$/src/T389.java" />
         <option value="$PROJECT_DIR$/src/T392.java" />
@@ -137,14 +261,24 @@
         <option value="$PROJECT_DIR$/src/offer/T19.java" />
         <option value="$PROJECT_DIR$/src/offer/T21.java" />
         <option value="$PROJECT_DIR$/src/offer/T22.java" />
+        <option value="$PROJECT_DIR$/src/offer/T24.java" />
+        <option value="$PROJECT_DIR$/src/offer/T25.java" />
+        <option value="$PROJECT_DIR$/src/offer/T26.java" />
+        <option value="$PROJECT_DIR$/src/offer/T27.java" />
+        <option value="$PROJECT_DIR$/src/offer/T28.java" />
+        <option value="$PROJECT_DIR$/src/offer/T29.java" />
+        <option value="$PROJECT_DIR$/src/offer/T30.java" />
+        <option value="$PROJECT_DIR$/src/offer/T31.java" />
+        <option value="$PROJECT_DIR$/src/offer/T32.java" />
+        <option value="$PROJECT_DIR$/src/offer/T322.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="546" />
-    <option name="y" value="232" />
+    <option name="x" value="586" />
+    <option name="y" value="40" />
     <option name="width" value="1281" />
-    <option name="height" value="660" />
+    <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -183,7 +317,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595829884760" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596004894896" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -328,7 +462,8 @@
       <workItem from="1595299009142" duration="5649000" />
       <workItem from="1595652069803" duration="28000" />
       <workItem from="1595652190426" duration="797000" />
-      <workItem from="1595813254839" duration="9166000" />
+      <workItem from="1595813254839" duration="10007000" />
+      <workItem from="1595995772790" duration="8681000" />
     </task>
     <task id="LOCAL-00001" summary="1题">
       <created>1570716606277</created>
@@ -442,11 +577,18 @@
       <option name="project" value="LOCAL" />
       <updated>1594867426439</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="2020.7.27&#10;秋招冲冲冲~&#10;5题">
+      <created>1595830001716</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1595830001716</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="219725000" />
+    <option name="totallyTimeSpent" value="229247000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -458,10 +600,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="155" width="854" height="440" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3324937" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21700405" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -554,101 +696,10 @@
     <MESSAGE value="12.12 这几天在做课设写文档，抽时间做了6题" />
     <MESSAGE value="2020.7.15&#10;秋招冲冲冲~&#10;刷完剑指offer" />
     <MESSAGE value="2020.7.16&#10;秋招冲冲冲~&#10;两题搜索 两题数论 一题位运算" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.7.16&#10;秋招冲冲冲~&#10;两题搜索 两题数论 一题位运算" />
+    <MESSAGE value="2020.7.27&#10;秋招冲冲冲~&#10;5题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.7.27&#10;秋招冲冲冲~&#10;5题" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="56" selection-start-line="9" selection-start-column="56" selection-end-line="9" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T389.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T387.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T383.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T374.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
-          <folding>
-            <element signature="e#569#570#0" expanded="true" />
-            <element signature="e#593#594#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T367.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T350.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T349.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T345.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/T392.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../../jdk1.8.0_31/src.zip!/java/lang/Integer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -934,24 +985,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/T19.java">
+    <entry file="file://$PROJECT_DIR$/src/offer/T22.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        <state relative-caret-position="288">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/offer/T21.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
+        <state relative-caret-position="365">
           <caret line="25" column="20" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/offer/T22.java">
+    <entry file="file://$PROJECT_DIR$/src/offer/T19.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        <state relative-caret-position="157">
+          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T24.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T26.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T27.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T30.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <folding>
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="43" column="20" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="43" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offer/T29.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>

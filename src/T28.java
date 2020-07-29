@@ -7,13 +7,13 @@
 
 public class T28 {
     public static int strStr(String haystack, String needle) {
-        if(needle.isEmpty()){
+        if (needle.isEmpty()) {
             return 0;
         }
         int len = needle.length();
-        for (int i = 0;i+len<=haystack.length();i++){
-            String s = haystack.substring(i,i+len);
-            if(s.equals(needle)) {
+        for (int i = 0; i + len <= haystack.length(); i++) {
+            String s = haystack.substring(i, i + len);
+            if (s.equals(needle)) {
                 return i;
             }
         }

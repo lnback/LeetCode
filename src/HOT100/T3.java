@@ -14,11 +14,11 @@ public class T3 {
     public int findRepeatNumber(int[] nums) {
         Set<Integer> set = new HashSet<>();
         int ans = 0;
-        for (int num : nums){
-            if(set.contains(num)){
+        for (int num : nums) {
+            if (set.contains(num)) {
                 ans = num;
                 break;
-            }else{
+            } else {
                 set.add(num);
             }
         }

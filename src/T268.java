@@ -8,7 +8,7 @@
 public class T268 {
     public int missingNumber(int[] nums) {
         int ans = nums[0];
-        for(int i = 0;i<nums.length;i++){
+        for (int i = 0; i < nums.length; i++) {
             ans ^= nums[i];
             ans ^= i;
         }

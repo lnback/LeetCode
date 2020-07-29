@@ -9,15 +9,15 @@ package offer;
 
 public class T14 {
     public int cuttingRope(int n) {
-        if(n == 2){
+        if (n == 2) {
             return 1;
         }
-        if(n == 3){
+        if (n == 3) {
             return 2;
         }
         //将n分为由最多3组成的数列 到最后结果只会变成2,1,0。1时不做处理，因为1*3<2*2。所以只有n>4才循环。
         long sum = 1;
-        while (n > 4){
+        while (n > 4) {
             sum *= 3;
             sum %= 1000000007;
             n -= 3;

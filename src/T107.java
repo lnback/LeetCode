@@ -8,7 +8,6 @@ import java.util.Queue;
  * @classname: T107 *
  * @author: lnback *
  * @create: 2019-11-19 19:26
- *
  **/
 
 public class T107 {
@@ -16,16 +15,16 @@ public class T107 {
         LinkedList<List<Integer>> ans = new LinkedList<>();
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
-        while(!queue.isEmpty()){
+        while (!queue.isEmpty()) {
             List<Integer> levelList = new ArrayList<>();
             int cnt = queue.size();
-            for(int i = 0;i < cnt;i++){
+            for (int i = 0; i < cnt; i++) {
                 TreeNode node = queue.poll();
                 levelList.add(node.val);
-                if(node.left != null){
+                if (node.left != null) {
                     queue.add(node.left);
                 }
-                if(node.right != null){
+                if (node.right != null) {
                     queue.add(node.right);
                 }
             }

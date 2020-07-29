@@ -7,9 +7,9 @@
 
 public class T226 {
     public TreeNode invertTree(TreeNode root) {
-        if(root == null){
+        if (root == null) {
             return root;
-        }else {
+        } else {
             TreeNode leftNode = root.left;
             root.left = invertTree(root.right);
             root.right = invertTree(leftNode);

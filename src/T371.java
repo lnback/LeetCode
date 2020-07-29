@@ -12,6 +12,6 @@ public class T371 {
          * (a & b) << 1为进位
          * 直到进位为0时即为最后的结果
          */
-        return b == 0 ? a : getSum(a^b,(a&b)<<1);
+        return b == 0 ? a : getSum(a ^ b, (a & b) << 1);
     }
 }

@@ -13,6 +13,6 @@ public class T242 {
         char[] ts = t.toCharArray();
         Arrays.sort(cs);
         Arrays.sort(ts);
-        return  String.valueOf(cs).equals(String.valueOf(ts));
+        return String.valueOf(cs).equals(String.valueOf(ts));
     }
 }

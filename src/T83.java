@@ -9,10 +9,10 @@ import javax.xml.soap.Node;
 
 public class T83 {
     public static ListNode deleteDuplicates(ListNode head) {
-        for(ListNode node = head;node != null && node.next != null;){
-            if(node.val == node.next.val){
+        for (ListNode node = head; node != null && node.next != null; ) {
+            if (node.val == node.next.val) {
                 node.next = node.next.next;
-            }else{
+            } else {
                 node = node.next;
             }
         }

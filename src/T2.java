@@ -16,7 +16,7 @@ public class T2 {
          * 1.l1 或 l2 不为空
          * 2.进位不为0 即：l1和l2循环完之后还有进位
          */
-        while (l1 != null || l2 != null || other != 0){
+        while (l1 != null || l2 != null || other != 0) {
             int v1 = l1 != null ? l1.val : 0;
             int v2 = l2 != null ? l2.val : 0;
             int sum = v1 + v2 + other;
@@ -29,10 +29,10 @@ public class T2 {
             //移位
             newNode = sumNode;
 
-            if(l1 != null) {
+            if (l1 != null) {
                 l1 = l1.next;
             }
-            if(l2 != null) {
+            if (l2 != null) {
                 l2 = l2.next;
             }
         }

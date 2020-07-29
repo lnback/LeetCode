@@ -11,11 +11,12 @@ public class T22 {
     public ListNode getKthFromEnd(ListNode head, int k) {
         ListNode fast = head;
 
-        while (fast != null){
+        while (fast != null) {
             fast = fast.next;
-            if(k == 0){
+            if (k == 0) {
                 head = head.next;
-            }{
+            }
+            {
                 k--;
             }
         }

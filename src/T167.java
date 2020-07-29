@@ -8,13 +8,13 @@
 public class T167 {
     public int[] twoSum(int[] numbers, int target) {
         int[] ans = new int[2];
-        int left = 0,right = numbers.length-1;
-        while(left < right){
-            if(numbers[left] + numbers[right] > target){
+        int left = 0, right = numbers.length - 1;
+        while (left < right) {
+            if (numbers[left] + numbers[right] > target) {
                 right--;
-            }else if(numbers[left] + numbers[right] < target){
+            } else if (numbers[left] + numbers[right] < target) {
                 left++;
-            }else{
+            } else {
                 ans[0] = right + 1;
                 ans[1] = left + 1;
             }
