@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd12455b-b3a7-471a-bce8-ddff5ff23c9a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/offer/T67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/offer/T67.java" afterDir="false" />
     </list>
     <list id="18cd3ff7-ba9e-4927-bdd6-9cddb08a0fdd" name="2020.7.15 秋招冲冲冲~ 刷完剑指offer" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,7 +202,8 @@
       <workItem from="1596870745235" duration="4682000" />
       <workItem from="1597028856616" duration="6800000" />
       <workItem from="1608207565830" duration="1820000" />
-      <workItem from="1611287201373" duration="1177000" />
+      <workItem from="1611287201373" duration="1421000" />
+      <workItem from="1611546169409" duration="6951000" />
     </task>
     <task id="LOCAL-00001" summary="1题">
       <created>1570716606277</created>
